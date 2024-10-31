@@ -17,19 +17,19 @@ The Console Games Store allows users to browse a wide selection of games, utiliz
 ## Screenshots
 
 ### Register Page
-![Register Page](screenshots/registerpage.png)
+![Register Page](screenshots/registerpage.jpeg)
 
 ### Login Page
-![Login Page](screenshots/loginpage.png)
+![Login Page](screenshots/loginpage.jpeg)
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/homepage.jpeg)
 
 ### Games Page
-![Games Page](screenshots/gamespage.png)
+![Games Page](screenshots/gamespage.jpeg)
 
 ### Game Page
-![Game Page](screenshots/gamepage.png)
+![Game Page](screenshots/gamepage.jpeg)
 
 
 ## License
