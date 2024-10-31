@@ -12,24 +12,24 @@ The Console Games Store allows users to browse a wide selection of games, utiliz
 - **Game Browsing**: Users can explore various console games.
 - **Filters**: Implement filtering options to easily find games based on different criteria.
 - **Cart and Order System**: Users can add items to their cart, view their cart, and proceed to checkout with just a few clicks.
-- - **Modern UI**: Sleek and responsive design using Tailwind CSS.
+- **Modern UI**: Sleek and responsive design using Tailwind CSS.
 
 ## Screenshots
 
 ### Register Page
-![Register Page](screenshots/registerpage.jpeg)
+![Register Page](screenshots/registerpage.png)
 
 ### Login Page
-![Login Page](screenshots/loginpage.jpeg)
+![Login Page](screenshots/loginpage.png)
 
 ### Home Page
-![Home Page](screenshots/homepage.jpeg)
+![Home Page](screenshots/homepage.png)
 
 ### Games Page
-![Games Page](screenshots/gamespage.jpeg)
+![Games Page](screenshots/gamespage.png)
 
 ### Game Page
-![Game Page](screenshots/gamepage.jpeg)
+![Game Page](screenshots/gamepage.png)
 
 
 ## License
